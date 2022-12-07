@@ -1,5 +1,5 @@
 <div id="header" alingn ="center">
-    <img src="https://media.giphy.com/media/x05jsGeK85CwHYBBhw/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/x05jsGeK85CwHYBBhw/giphy.gif" width="200 "height="200"  />
     <h1 alingn="center"> Hi there 👋 - Hola a tod@s 👋 - oi 👋 </h1>
     <h3 alingn="Center">  Systems development student, passionate about technology. 
         I am currently studying Full-Stack with JavaScript. 
@@ -37,7 +37,7 @@
 
 
 
-    </div>
+   
 
 
-</div>
+
