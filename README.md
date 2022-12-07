@@ -1,11 +1,11 @@
 <div id="header" alingn ="center">
     <img src="https://media.giphy.com/media/x05jsGeK85CwHYBBhw/giphy.gif" width="200 "height="200"  />
-    <h1 alingn="center"> Hi there 👋 - Hola a tod@s 👋 - oi 👋 </h1>
-    <h3 alingn="Center">  Systems development student, passionate about technology. 
+    <h1 align="center"> Hi there 👋 - Hola a tod@s 👋 - oi 👋 </h1>
+    <h3 align="center">  Systems development student, passionate about technology. 
         I am currently studying Full-Stack with JavaScript. 
         In this space I will share my work and some creations to see my evolution 😅😏.
         <br>  <br></h3>
-        <h2 style="color:green;">El mejor momento para comenzar es ahora!!</h2> 
+        <h2 align="center">⚡ El mejor momento para comenzar es ahora!!⚡</h2> 
 </div>
 
 ---
@@ -19,9 +19,9 @@
 
 ---
 
-<div alingn="left">
+<div align="center">
 <h3> 🔨 Languages and Tools 🧰: </h3>
-    <div>
+    <div >
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML"
         width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS"
