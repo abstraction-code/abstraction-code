@@ -32,7 +32,7 @@
         width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT"
         width="40" height="40"/>
-        <img src="https://user-images.githubusercontent.com/105940842/209420794-4af71c09-940c-4040-bb59-83533d485e0b.png" title="VC" alt="VC"
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VC" alt="VC"
         width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PS" alt="PS"
         width="40" height="40"/>
